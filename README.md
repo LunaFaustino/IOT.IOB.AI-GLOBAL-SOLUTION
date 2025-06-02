@@ -145,6 +145,7 @@ node-red
    ```bash
    node-red
    ```
+   - Navegue para `http://localhost:1880` e clique em "Deploy" para iniciar o fluxo
 
 3. **Acesse o Dashboard**:
    - Navegue para `http://localhost:1880/ui`
